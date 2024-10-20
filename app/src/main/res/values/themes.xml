@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Farm_2_U" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Set status bar color to transparent -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Set navigation bar color to transparent -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
