@@ -1,4 +1,4 @@
-Farm2You: Direct Market Access for Farmers Through a Mobile App
+Farm2You: Digitizing Market Linkages in the Agricultural Sector: Reducing Middlemen Influence and Promoting Fair Trade
 
 1. Introduction
 Small-scale farmers face challenges like limited market access, unfair pricing, and logistical inefficiencies.Traditional supply chains often reduce farmers' profits due to intermediaries. Farm2You aims to create a direct connection between farmers and consumers, fostering a transparent marketplace.
